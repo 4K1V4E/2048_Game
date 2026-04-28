@@ -2,7 +2,7 @@
 
 ## Description
 
-A recreation of the popular mobile game 2048.
+A re-creation of the popular mobile game 2048.
 
 ## Support
 
